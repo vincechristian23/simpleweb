@@ -2111,7 +2111,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-warning {
   color: #ffffff;
   background-color:red;
-  border-color: #ffffff;
+  border-color: #7a7a7a;
 }
 
 .btn-warning:hover,
@@ -2120,8 +2120,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-warning.active,
 .open .dropdown-toggle.btn-warning {
   color: #ffffff;
-  background-color: #ed9c28;
-  border-color: #d58512;
+  background-color: #d60000;
+  border-color: #ffffff;
 }
 
 .btn-warning:active,

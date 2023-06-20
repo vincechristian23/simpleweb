@@ -177,12 +177,12 @@ a:after {
 	letter-spacing: 0.15em;
 	line-height: 40px;
 	text-transform: uppercase;
-	color: #ffffff;
+	color: rgb(255, 0, 0);
 	margin-top: 20px;
 }
 
 .menu h1.logo a:hover {
-	color: #291b79;
+	color: rgb(255, 95, 95);
 }
 
 .menu img.logo {
